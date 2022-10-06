@@ -5,15 +5,20 @@
 Web3 Dev Resource
 **************************
  
-About:
+ About:
+
 chain_fetch.html for use with the chainid.network API
 https://chainid.network/chains.json
 
-Use Case:
+ Use Case:
+
 Quickly sort through chain info fetched from the chainid.network API
 
-js Code:
+
+ js Code:
+
       // Assign/declare fetched chain data variable as a global array
+      
       const d = [];
       // Add options to DOM select input
       // o = object
