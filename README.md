@@ -7,15 +7,25 @@ Web3 Dev Resource
  
  About:
 
+
 chain_fetch.html for use with the chainid.network API
 https://chainid.network/chains.json
 
+
  Use Case:
+
 
 Quickly sort through chain info fetched from the chainid.network API
 
 
+  Demo:
+
+
+https://andybb311.github.com/chain_fetch/
+
+
  js Code:
+
 
       // Assign/declare fetched chain data variable as a global array
       
