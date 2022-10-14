@@ -21,7 +21,7 @@ Quickly sort through chain info fetched from the chainid.network API
   Demo:
 
 
-https://andybb311.github.com/chain_fetch/
+https://andybb311.github.io/chain_fetch/
 
 
  js Code:
